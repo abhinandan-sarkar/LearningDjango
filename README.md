@@ -17,3 +17,11 @@ myenv\Scripts\activate.bat
 ;) Deactivate the virtual environment
 deactivate
 
+#step -3 Django SetUp
+install Django 
+-->pip install django
+create a project
+Django-admin startproject myproject .
+run the project
+Django manage.py startproject myproject
+
