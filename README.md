@@ -13,7 +13,7 @@ create a folder first then open into cmd if windows user than writethe command a
 --># Create a virtual environment
 -->python -m venv myenv
 ;) Activate the virtual environment (Windows)
-myenv\Scripts\activate.bat
+myenv\Scripts\activate.bat --->don't understimeted \ <-- this if you want to save 1 hours.
 ;) Deactivate the virtual environment
 deactivate
 
